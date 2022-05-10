@@ -23,7 +23,7 @@ Product.init(
     },
 
     price: {
-      type: DataTypes.decimal(10, 2),
+      type: DataTypes.DECIMAL(10, 2),
       allowNull: false,
       // * Validates that the value is a decimal.
       validate: { isDecimal: true },

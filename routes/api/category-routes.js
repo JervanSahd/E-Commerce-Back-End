@@ -3,7 +3,7 @@ const { Category, Product } = require("../../models");
 
 // The `/api/categories` endpoint
 // Import the model
-const Category = require("../../models/Category");
+
 
 router.get("/", (req, res) => {
   // find all categories
