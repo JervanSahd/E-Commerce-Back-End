@@ -142,8 +142,8 @@ You are required to submit BOTH of the following for review:
 
 - A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
 
+https://drive.google.com/file/d/1Wr3hY_4s9D6ZLf8JrxzfSJt0iaSnFWfJ/view
+
 - The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
-## https://github.com/JervanSahd/E-Commerce-Back-End
-
-Steve Snavely
+https://github.com/JervanSahd/E-Commerce-Back-End
